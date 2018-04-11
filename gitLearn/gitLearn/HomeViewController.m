@@ -25,6 +25,10 @@
  注册
  */
 
+/**
+ 哈哈
+ */
+
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
